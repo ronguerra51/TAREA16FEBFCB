@@ -1,0 +1,54 @@
+body{
+    background-image: url(/images/2.webp);
+    font-size: 25px;
+}
+
+h1{
+    font-size: 2cm;
+    font-family: fantasy;
+    color: crimson;
+    border: 25px;
+    border-color: black;
+    border-style: double;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+#div1{
+    font-size: 0,5%;
+    width: 50%;
+    margin-left: 0%;
+    text-align: justify;
+    border-radius: 15px;
+    border-color: black;
+    border-style: outset;
+    background-color: rgb(9, 44, 51);
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#div2{
+    font-size: 0,5cm;
+    width: 42%;
+    margin-left: 52%;
+    margin-top: -48%;
+    text-align: justify;
+    border-radius: 15px;
+    border-color: black;
+    border-style: outset;
+    background-color: rgb(24, 133, 116);
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+#div3{
+    font-size: 0.8cm;
+    width: 42%;
+    margin-left: 52%;
+    border-style: double;
+    border-width: 0.2cm;
+    border-color: black;
+    color: rgba(227, 231, 235, 0.644);
+    background-color: rgb(67, 159, 144);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
